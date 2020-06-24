@@ -16,3 +16,8 @@ We assume co2 emission for a new car using the historical data.
 We use the Machine Learning technique called Multiple Linear Regression to predict the data.
 Also i make use of scikit learn to do some mathematical equations.
 Go through code set by set to understand.
+
+# Polynomial-Regression-ML-
+This is similar to linear regression but contains a curve line
+So we make use of polynomial equation to solve this process
+Go through the code and graph to understand better
