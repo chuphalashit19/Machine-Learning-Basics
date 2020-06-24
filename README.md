@@ -1,5 +1,5 @@
 # Machine-Learning-Basics
-Here i have worked on some of basics of ML and their different techniques . Also here i have predicted dew things using a data set.
+Here i have worked on some of basics of ML and their different techniques . Also here i have predicted few data using a historical data set.
 
 # Linear-Regression-ML-
 Here we doing an assumption using a data set of car emission 
