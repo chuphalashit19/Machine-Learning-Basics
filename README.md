@@ -18,6 +18,11 @@ Also i make use of scikit learn to do some mathematical equations.
 Go through code set by set to understand.
 
 # Polynomial-Regression-ML-
-This is similar to linear regression but contains a curve line
-So we make use of polynomial equation to solve this process
-Go through the code and graph to understand better
+This is similar to linear regression but contains a curve line.
+So we make use of polynomial equation to solve this process.
+Go through the code and graph to understand better.
+
+# Non-Linear-Regression-ML-
+Non-linear regressions are a relationship between independent variables 𝑥 and a dependent variable 𝑦 which result in a non-linear function modeled data.
+If the data shows a curvy trend, then linear regression will not produce very accurate results when compared to a non-linear regression because, as the name implies, linear regression presumes that the data is linear.
+In this notebook, we fit a non-linear model to the datapoints corrensponding to China's GDP from 1960 to 2014.
