@@ -1,2 +1,12 @@
 # Machine-Learning-Basics
 Here i have worked on some of basics of ML and their different techniques . Also here i have predicted dew things using a data set.
+
+
+
+# Multiple-Regression-ML-
+Now we make use of multiple attributes in a table to predict Co2 Emission for a new vehicle
+Here we doing an assumption using a data set of car emission.
+We assume co2 emission for a new car using the historical data.
+We use the Machine Learning technique called Multiple Linear Regression to predict the data.
+Also i make use of scikit learn to do some mathematical equations.
+Go through code set by set to understand.
