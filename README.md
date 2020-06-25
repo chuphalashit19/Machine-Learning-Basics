@@ -45,3 +45,9 @@ Our job is to build a model to find out which drug might be appropriate for a fu
 The feature sets of this dataset are Age, Sex, Blood Pressure, and Cholesterol of patients, and the target is the drug that each patient responded to.
 It is a sample of binary classifier, and you can use the training part of the dataset to build a decision tree, and then use it to predict the class of a unknown patient, or to prescribe it to a new patient.
 
+# Logistic-Regression-with-python
+We create a model for a telecommunication company, to predict when its customers will leave for a competitor, so that they can take some action to retain the customers.
+In order to estimate the class of a data point, we need some sort of guidance on what would be the most probable class for that data point. For this, we use Logistic Regression.
+Logistic Regression is a variation of Linear Regression, useful when the observed dependent variable, y, is categorical.
+It produces a formula that predicts the probability of the class label as a function of the independent variables.
+Logistic regression fits a special s-shaped curve by taking the linear regression and transforming the numeric estimate into a probability with the following function, which is called sigmoid function 𝜎.
