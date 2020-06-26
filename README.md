@@ -87,3 +87,8 @@ Firstly we work with random dataset
 Then, we work with the cars_cluss dataset
 Go through the code bit by bit to understand better
 
+# Density-Based-Clustering-DBSCAN
+Density-based Clustering locates regions of high density that are separated from one another by regions of low density.
+Density is defined as the number of points within a specified radius.
+DBSCAN is specially very good for tasks like class identification on a spatial context.
+The wonderful attribute of DBSCAN algorithm is that it can find out any arbitrary shape cluster without getting affected by noise
