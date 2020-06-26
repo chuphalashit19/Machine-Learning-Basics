@@ -72,6 +72,18 @@ k-means on a random generated dataset
 Using k-means for customer segmentation
 k-means will partition your customers into mutually exclusive groups, for example, into 3 clusters. The customers in each cluster are similar to each other demographically. Now we can create a profile for each group, considering the common characteristics of each cluster. For example, the 3 clusters can be:
 
-AFFLUENT, EDUCATED AND OLD AGED
-MIDDLE AGED AND MIDDLE INCOME
-YOUNG AND LOW INCOME
+  ->AFFLUENT, EDUCATED AND OLD AGED
+  ->MIDDLE AGED AND MIDDLE INCOME
+  ->YOUNG AND LOW INCOME
+
+# Hierarchical-Clustering
+Here we have a clustering technique, which is Agglomerative Hierarchical Clustering.
+The agglomerative is the bottom up approach.
+We are making us of Agglomerative clustering, which is more popular than Divisive clustering.
+The Agglomerative Clustering class will require two inputs:
+  1) n_clusters
+  2) linkage
+Firstly we work with random dataset
+Then, we work with the cars_cluss dataset
+Go through the code bit by bit to understand better
+
