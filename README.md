@@ -57,3 +57,17 @@ We use SVM (Support Vector Machines) to build and train a model using human cell
 SVM works by mapping data to a high-dimensional feature space so that data points can be categorized, even when the data are not otherwise linearly separable.
 A separator between the categories is found, then the data is transformed in such a way that the separator could be drawn as a hyperplane.
 Following this, characteristics of new data can be used to predict the group to which a new record should belong.
+
+# k-means-Clustering
+The K-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data. 
+We will learn how to use k-Means for customer segmentation.
+Some real-world applications of k-means:
+  *Customer segmentation
+   Understand what the visitors of a website are trying to accomplish
+   Pattern recognition
+   Machine learning
+   Data compression*
+We use this method for :
+k-means on a random generated dataset
+Using k-means for customer segmentation
+
