@@ -51,3 +51,9 @@ In order to estimate the class of a data point, we need some sort of guidance on
 Logistic Regression is a variation of Linear Regression, useful when the observed dependent variable, y, is categorical.
 It produces a formula that predicts the probability of the class label as a function of the independent variables.
 Logistic regression fits a special s-shaped curve by taking the linear regression and transforming the numeric estimate into a probability with the following function, which is called sigmoid function 𝜎.
+
+# Support-Vector-Machines(SVM)
+We use SVM (Support Vector Machines) to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.
+SVM works by mapping data to a high-dimensional feature space so that data points can be categorized, even when the data are not otherwise linearly separable.
+A separator between the categories is found, then the data is transformed in such a way that the separator could be drawn as a hyperplane.
+Following this, characteristics of new data can be used to predict the group to which a new record should belong.
