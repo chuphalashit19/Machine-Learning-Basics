@@ -70,4 +70,8 @@ Some real-world applications of k-means:
 We use this method for :
 k-means on a random generated dataset
 Using k-means for customer segmentation
+k-means will partition your customers into mutually exclusive groups, for example, into 3 clusters. The customers in each cluster are similar to each other demographically. Now we can create a profile for each group, considering the common characteristics of each cluster. For example, the 3 clusters can be:
 
+AFFLUENT, EDUCATED AND OLD AGED
+MIDDLE AGED AND MIDDLE INCOME
+YOUNG AND LOW INCOME
