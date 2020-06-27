@@ -92,11 +92,17 @@ Density-based Clustering locates regions of high density that are separated from
 Density is defined as the number of points within a specified radius.
 DBSCAN is specially very good for tasks like class identification on a spatial context.
 The wonderful attribute of DBSCAN algorithm is that it can find out any arbitrary shape cluster without getting affected by noise
+## Recommendation-Systems :-
 
-# Content-based-Recommendation-Systems
-Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user.
-These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. 
-We will explore Content-based recommendation systems and implement a simple version of one using Python and the Pandas library.
-This technique attempts to figure out what a user's favourite aspects of an item is, and then recommends items that present those aspects. In our case, we're going to try to figure out the input's favorite genres from the movies and ratings given.
-The output given shows the top 20 movies the user would like to watch based on his profile.
+  # Content-based-Filtering
+  Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user.
+  These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. 
+  We will explore Content-based recommendation systems and implement a simple version of one using Python and the Pandas library.
+  This technique attempts to figure out what a user's favourite aspects of an item is, and then recommends items that present those aspects. In our case, we're going to try to      figure out the input's favorite genres from the movies and ratings given.
+  The output given shows the top 20 movies the user would like to watch based on his profile.
 
+  # Collaborative-Filtering 
+  We will explore recommendation systems based on Collaborative Filtering and implement simple version of one using Python and the Pandas library.
+  The first technique we're going to take a look at is called Collaborative Filtering, which is also known as User-User Filtering.
+  
+  
