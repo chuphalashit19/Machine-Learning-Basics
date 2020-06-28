@@ -104,5 +104,7 @@ The wonderful attribute of DBSCAN algorithm is that it can find out any arbitrar
   # Collaborative-Filtering 
   We will explore recommendation systems based on Collaborative Filtering and implement simple version of one using Python and the Pandas library.
   The first technique we're going to take a look at is called Collaborative Filtering, which is also known as User-User Filtering.
+  This technique uses other users to recommend items to the input user. It attempts to find users that have similar preferences and opinions as the input and then recommends       items that they have liked to the input.
+  There are several methods of finding similar users (Even some making use of Machine Learning), and the one we will be using here is going to be based on the Pearson             Correlation Function.
   
-  
+
